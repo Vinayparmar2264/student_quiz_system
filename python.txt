@@ -1,0 +1,69 @@
+Which keyword is used to define a function in Python?
+A) func
+B) define
+C) def
+D) function
+ANSWER: C
+
+Which of these is used to take input from the user?
+A) scanf()
+B) cin
+C) input()
+D) get()
+ANSWER: C
+
+What is the output of: print(type([])) ?
+A) <class 'list'>
+B) <class 'tuple'>
+C) <class 'dict'>
+D) <class 'set'>
+ANSWER: A
+
+Which symbol is used for comments in Python?
+A) //
+B) #
+C) /*
+D) !
+ANSWER: B
+
+Which function is used to find the length of a string?
+A) count()
+B) length()
+C) len()
+D) size()
+ANSWER: C
+
+Which of the following is immutable?
+A) List
+B) Set
+C) Tuple
+D) Dictionary
+ANSWER: C
+
+What is the output of 5 // 2 ?
+A) 2.5
+B) 2
+C) 3
+D) 2.0
+ANSWER: B
+
+Which module in Python is used for random numbers?
+A) random
+B) math
+C) sys
+D) os
+ANSWER: A
+
+What is the correct way to create a dictionary?
+A) {key: value}
+B) [key, value]
+C) (key, value)
+D) key = value
+ANSWER: A
+
+Which function is used to display output in Python?
+A) echo()
+B) print()
+C) show()
+D) display()
+ANSWER: B

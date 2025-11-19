@@ -1,0 +1,69 @@
+Which data structure uses FIFO principle?
+A) Stack
+B) Queue
+C) Tree
+D) Graph
+ANSWER: B
+
+Which data structure uses LIFO principle?
+A) Queue
+B) Stack
+C) Linked List
+D) Tree
+ANSWER: B
+
+Which operation removes an element from a stack?
+A) Push
+B) Pop
+C) Enqueue
+D) Delete
+ANSWER: B
+
+Which data structure is used in recursion?
+A) Stack
+B) Queue
+C) Tree
+D) Array
+ANSWER: A
+
+Which of the following is not a linear data structure?
+A) Array
+B) Queue
+C) Tree
+D) Stack
+ANSWER: C
+
+Which traversal is used in Depth First Search (DFS)?
+A) Level order
+B) Preorder, Inorder, Postorder
+C) Breadth order
+D) Binary order
+ANSWER: B
+
+In a circular queue, the rear pointer is followed by?
+A) Front pointer
+B) NULL
+C) First element
+D) None of the above
+ANSWER: C
+
+Which of the following is used to find the shortest path in a graph?
+A) Kruskal’s algorithm
+B) Dijkstra’s algorithm
+C) Prim’s algorithm
+D) DFS
+ANSWER: B
+
+Which of these is a divide and conquer algorithm?
+A) Bubble Sort
+B) Merge Sort
+C) Insertion Sort
+D) Selection Sort
+ANSWER: B
+
+Which data structure is used for implementing priority queue?
+A) Stack
+B) Linked List
+C) Heap
+D) Tree
+ANSWER: C

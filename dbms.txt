@@ -1,0 +1,69 @@
+Which of the following is a DBMS software?
+A) Oracle
+B) Linux
+C) MS Word
+D) Windows
+ANSWER: A
+
+Which language is used to query the database?
+A) HTML
+B) SQL
+C) XML
+D) C
+ANSWER: B
+
+Which key uniquely identifies each record in a table?
+A) Primary key
+B) Foreign key
+C) Candidate key
+D) Alternate key
+ANSWER: A
+
+Which of the following is not a type of database model?
+A) Hierarchical
+B) Relational
+C) Network
+D) Circular
+ANSWER: D
+
+What is the full form of DBMS?
+A) Data Base Management System
+B) Data Based Managing System
+C) Data Base Manipulation System
+D) Data Block Management System
+ANSWER: A
+
+Which of these is used to remove a table from the database?
+A) DELETE
+B) DROP
+C) REMOVE
+D) CLEAR
+ANSWER: B
+
+Which clause is used to filter the records?
+A) WHERE
+B) SELECT
+C) ORDER BY
+D) GROUP BY
+ANSWER: A
+
+Which command is used to update data in a table?
+A) MODIFY
+B) CHANGE
+C) UPDATE
+D) ALTER
+ANSWER: C
+
+Which of the following is used to maintain data integrity between tables?
+A) Foreign key
+B) Primary key
+C) Candidate key
+D) Super key
+ANSWER: A
+
+Which SQL command is used to sort results?
+A) SORT BY
+B) ORDER BY
+C) GROUP BY
+D) ARRANGE BY
+ANSWER: B
